@@ -1,0 +1,22 @@
+[
+  { "id": 1, "nickname": "Aeneis", "fullName": "Altan Koç", "city": "İzmir" },
+  { "id": 2, "nickname": "SilentWolf", "fullName": "Mehmet Yılmaz", "city": "Ankara" },
+  { "id": 3, "nickname": "StarDust", "fullName": "Zeynep Kaya", "city": "İstanbul" },
+  { "id": 4, "nickname": "IronCoder", "fullName": "Ahmet Demir", "city": "Bursa" },
+  { "id": 5, "nickname": "SkyQueen", "fullName": "Elif Aydın", "city": "Antalya" },
+  { "id": 6, "nickname": "DarkKnight", "fullName": "Ali Çelik", "city": "İzmir" },
+  { "id": 7, "nickname": "LightRider", "fullName": "Selin Güneş", "city": "Adana" },
+  { "id": 8, "nickname": "PixelMaster", "fullName": "Can Ersoy", "city": "Konya" },
+  { "id": 9, "nickname": "BlueFire", "fullName": "Ayşe Taş", "city": "Samsun" },
+  { "id": 10, "nickname": "SharpMind", "fullName": "Eren Yalçın", "city": "Trabzon" },
+  { "id": 11, "nickname": "NovaTech", "fullName": "Merve Yıldız", "city": "Eskişehir" },
+  { "id": 12, "nickname": "DataViking", "fullName": "Burak Kurt", "city": "Kayseri" },
+  { "id": 13, "nickname": "QuantumFox", "fullName": "Gizem Aksoy", "city": "Mersin" },
+  { "id": 14, "nickname": "BinaryBoss", "fullName": "Fatih Şahin", "city": "Gaziantep" },
+  { "id": 15, "nickname": "DreamWalker", "fullName": "Nazlı Öz", "city": "Van" },
+  { "id": 16, "nickname": "CodeNinja", "fullName": "Tuna Sezer", "city": "Malatya" },
+  { "id": 17, "nickname": "CoreStorm", "fullName": "Hale Karaca", "city": "Tekirdağ" },
+  { "id": 18, "nickname": "FrostByte", "fullName": "İsmail Toprak", "city": "Edirne" },
+  { "id": 19, "nickname": "NetWitch", "fullName": "Derya Uysal", "city": "Kocaeli" },
+  { "id": 20, "nickname": "StackHero", "fullName": "Kadir Şimşek", "city": "Çanakkale" }
+]
