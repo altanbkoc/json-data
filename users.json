@@ -1,6 +1,6 @@
 [
   { "id": 1, "nickname": "Aeneis", "fullName": "Altan Koç", "city": "İzmir" },
-  { "id": 2, "nickname": "SilentWolf", "fullName": "Mehmet Yılmaz", "city": "Ankara" },
+  { "id": 2, "nickname": "Aindra", "fullName": "Egemen Kurtuluş", "city": "Ankara" },
   { "id": 3, "nickname": "StarDust", "fullName": "Zeynep Kaya", "city": "İstanbul" },
   { "id": 4, "nickname": "IronCoder", "fullName": "Ahmet Demir", "city": "Bursa" },
   { "id": 5, "nickname": "SkyQueen", "fullName": "Elif Aydın", "city": "Antalya" },
